@@ -4,4 +4,7 @@ c = 4
 
 var add = a + b
 var min = c - b
+var dev = c / a
+
+
 
